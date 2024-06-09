@@ -1,0 +1,2 @@
+etcd=com.money.rpc.registry.EtcdRegistry
+zookeeper=com.money.rpc.registry.ZooKeeperRegistry

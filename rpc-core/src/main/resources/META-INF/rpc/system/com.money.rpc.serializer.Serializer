@@ -1,0 +1,4 @@
+jdk=com.money.rpc.serializer.JDKSerializer
+json=com.money.rpc.serializer.JsonSerializer
+kryo=com.money.rpc.serializer.KryoSerializer
+hessian=com.money.rpc.serializer.HessianSerializer

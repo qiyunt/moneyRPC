@@ -1,0 +1,3 @@
+roundRobin=com.money.rpc.loadbalancer.RoundRobinLoadBalancer
+random=com.money.rpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.money.rpc.loadbalancer.ConsistentHashLoadBalancer
